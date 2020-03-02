@@ -34,7 +34,7 @@ const SecondPage = () => (
     <h1>Characters</h1>
     {dispChar}
     <div style={{marginLeft: "1.5rem", width: "45%"}}>
-      <h2 id="">Naylie</h2>
+      <h2 id="">Nayeli</h2>
       <p>Nayeli is a nineteen year old Mexican girl. She works as a waitress at Tachos’s bar, La Mano Caida. She is known as a very bright, strong,athletic character who is extremely admired by loyal friends. They all just graduated high school but all share a similar future in the poor Mexican village of Tres Camarones, where they all come from. Nayeli and her anut, Irma both share a charismatic feminist realtionship as well her aunt being a former bowling champion, and just newly elected Municipal President of Tres Camarones    
 </p>
       <h2>Yolo</h2>

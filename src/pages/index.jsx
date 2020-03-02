@@ -62,7 +62,7 @@ const IndexPage = () => (
       </div>      
       <div style={{height: `100%`, width: `36%`}}></div>
       <div style={{height: `100%`, width: `33%`, backgroundColor: `red`}}>
-        <div style={{textAlign: "center"}}>
+        <div style={{textAlign: "center", width: "80%", margin: "auto"}}>
           <h2>Summary</h2>
           <p>Into the beautiful north is about the quest of a young group of Sinaloans. They journey North into the U.S. from their small town of Tres Camarones in search of the men who have gone searching for work in the “Beautiful North”. </p>
         </div>

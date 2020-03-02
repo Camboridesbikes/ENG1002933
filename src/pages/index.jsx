@@ -53,7 +53,7 @@ const IndexPage = () => (
     </div>
     <div style={{display: `flex`, height: `49vh`, width: `100%`, background:`white`}}>
        <div style={{height: `100%`, width: `33%`, display: "flex", flexFlow: "row-reverse", backgroundColor: `green`}}>
-          <div style={{transform: "rotate(-90deg", position: "absolute"}}>
+          <div style={{transform: "rotate(-90deg)", position: "absolute"}}>
             <div style={{ textAlign: "end"}}>
               <h1 style={{fontSize: "5rem"}}>INTO</h1>
               <h1 style={{fontSize: "5rem"}}>THE</h1>

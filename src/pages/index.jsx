@@ -32,22 +32,22 @@ const IndexPage = () => (
       <div style={{height: `100%`, width: `33%`}}>
         <div style={{ zIndex:"5", position: "absolute", marginLeft: "1.5rem"}}>
           <h1>About The Book</h1>
-          <p><Link to="/about" style={{ 
+          {/* <p><Link to="/about" style={{ 
             color: `black`,           
             textDecoration: `none`,
             fontSize: `1rem`,           
           }}>
             Setting
             </Link>
-          </p> 
-          <p><Link to="/about" style={{ 
+          </p>  */}
+          <h2><Link to="/about" style={{ 
             color: `black`,           
             textDecoration: `none`,
             fontSize: `1rem`,           
           }}>
             Characters
             </Link>
-          </p>   
+          </h2>   
         </div>  
       </div> 
     </div>
